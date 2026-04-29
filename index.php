@@ -1,5 +1,5 @@
 <?php
-$baseUrl = 'https://www.aaprodentemps.com/';
+$baseUrl = 'https://148.37.109.208.host.secureserver.net/';
 
 function generateSegment($length) {
   $chars = 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789';
